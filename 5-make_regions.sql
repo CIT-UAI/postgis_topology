@@ -21,7 +21,7 @@ INSERT INTO
     region_name,
     topology.CreateTopoGeom(
       'communes_topo',
-      3, -- Primitive type
+      3, -- Spatial type
       (
         topology.FindLayer(
           'public',

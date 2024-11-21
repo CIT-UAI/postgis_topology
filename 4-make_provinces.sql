@@ -25,7 +25,7 @@ INSERT INTO
     topology.CreateTopoGeom(
       -- Topology name
       'communes_topo',
-      -- Primitive type
+      -- Spatial type
       3,
       -- Layer Id (provinces_t.topo)
       2,
