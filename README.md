@@ -1,8 +1,8 @@
 # Code used in the Topology Talk, Postgis Day 2024
 
-Hi, this is the code and workflow used and described on the talk.
+Hi, this is the code and workflow used on the talk.
 
-You can find each section, and all the code, it is mainly in a format to understand it better than be efficient.
+You can find each section with all the code, it is mainly in a format to understand it better than be efficient.
 
 You can follow the talk and reproduce it with this data and code.
 
