@@ -1,5 +1,7 @@
 # Code used in the Topology Talk, Postgis Day 2024
 
+[![HitCount](https://hits.dwyl.com/CIT-UAI/postgis_topology.svg?style=flat-square&show=unique)](http://hits.dwyl.com/CIT-UAI/postgis_topology)
+
 Hi, this is the code and workflow used on the talk.
 
 You can find each section with all the code, it is mainly in a format to understand it better than be efficient.
